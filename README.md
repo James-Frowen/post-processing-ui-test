@@ -6,4 +6,4 @@ UI Camera has post processing that had blue colour grading.  If the UI Camera us
 
 To Fix this the UI camera uses  Clear Flags with a solid colour with 0 transparency and a Render texture. The Render texture can then drawn using a canvas with a Screen overlay.
 
-![example scene](./example.png)
+![example scene](./example2.png)
